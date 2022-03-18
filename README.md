@@ -4,7 +4,6 @@ I’m studying at Faculty of engineering\
 My major is Communication and Electronics Engineering\
 I’m currently learning embedded systems
 
-- 🔭 I’m currently working on this page. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehia2000000)](https://github.com/anuraghazra/github-readme-stats)
