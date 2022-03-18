@@ -1,7 +1,7 @@
 ### Hi there 👋, yehia shahin
 #### Embedded system and Digital Design Engineer 
-I’m studying at Faculty of engineering 
-My major is Communication and Electronics Engineering 
+I’m studying at Faculty of engineering \
+My major is Communication and Electronics Engineering \ 
 I’m currently learning embedded systems
 
 - 🔭 I’m currently working on this page. 
