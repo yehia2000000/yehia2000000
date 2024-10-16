@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 |  4 | [spqm]()                                				| Digital Design (verilog)            |  2020 |
 ---
 ## Embedded system Projects
+| | Project | Category | Year |
 |---:|---|---|---|
 |  1 | [Motor_Dash_Board]()                                             | Embedded system                     |  2024 |
 |  2 | [Simple_Shell]()		                                 	| operating system                    |  2024 |
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 |  4 | [Avr Driver]()                        				| atmega32 Driver                     |  2020 |
 
 ## Programming Projects
+| | Project | Category | Year |
 |---:|---|---|---|
 |  1 | [Phone book]()                                                   | python                              |  2021 |
 |  2 | [Topology API]()							| C++ (OOP)		              |  2021 |
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
 
 
 ## AI Assignments
+| | Project | Category | Year |
 |---:|---|---|---|
 |  1 | [AMIT assignment Diploma]()                                      | Machine and Deep learning           |  2022 |
 
