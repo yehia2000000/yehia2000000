@@ -2,8 +2,8 @@
 ?? How to reach me: [Linkedin](https://www.linkedin.com/in/yehia-shahin/)</br>
 >> -> [ [Digital design and verification Projects](https://github.com/yehia2000000#Digital Design and Verification Projects) ]</br>
 >> -> [ [Embedded system Projects](https://github.com/yehia2000000#Embedded system Projects) ]</br>
->> -> [ [Programming Projects](https://github.com/yehia2000000#Programming Projects) ]</br>
->> -> [ [AI Assignments](https://github.com/yehia2000000#AI Assignments) ]</br>
+>> -> [ [Programming Projects](https://github.com/yehia2000000#Programming-Projects) ]</br>
+>> -> [ [AI Assignments](https://github.com/yehia2000000#AI-Assignments) ]</br>
 <!--
 **yehia2000000/yehia2000000** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
