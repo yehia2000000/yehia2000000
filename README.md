@@ -1,7 +1,7 @@
 # Salam, I'm yehia ahmed ibrahim shahin ??
 ?? How to reach me: [Linkedin](https://www.linkedin.com/in/yehia-shahin/)</br>
->> -> [ [Digital design and verification Projects](https://github.com/yehia2000000#Digital Design and Verification Projects) ]</br>
->> -> [ [Embedded system Projects](https://github.com/yehia2000000#Embedded system Projects) ]</br>
+>> -> [ [Digital design and verification Projects](https://github.com/yehia2000000#Digital-Design-and-Verification-Projects) ]</br>
+>> -> [ [Embedded system Projects](https://github.com/yehia2000000#Embedded-system-Projects) ]</br>
 >> -> [ [Programming Projects](https://github.com/yehia2000000#Programming-Projects) ]</br>
 >> -> [ [AI Assignments](https://github.com/yehia2000000#AI-Assignments) ]</br>
 <!--
