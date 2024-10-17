@@ -1,5 +1,6 @@
 # Salam, I'm yehia ahmed ibrahim shahin??
 ?? How to reach me: [Linkedin](https://www.linkedin.com/in/yehia-shahin/)</br>
+>> -> [ [graduation project for university](https://github.com/yehia2000000#Digital-Design-and-Verification-Projects) ]</br>
 >> -> [ [Digital design and verification Projects](https://github.com/yehia2000000#Digital-Design-and-Verification-Projects) ]</br>
 >> -> [ [Embedded system Projects](https://github.com/yehia2000000#Embedded-system-Projects) ]</br>
 >> -> [ [Programming Projects](https://github.com/yehia2000000#Programming-Projects) ]</br>
@@ -15,6 +16,10 @@ Here are some ideas to get you started:
 - ? Fun fact: ...
 -->
 ---
+# Graduation project for university
+| | Project | Category | Year |
+|---:|---|---|---|
+|  1 | [Firmware Over The Air](https://github.com/YehiaEhab16/FOTA_Graduation-Project-2022)                        | Embedded system          |  2022 |
 ---
 ## Digital Design and Verification Projects
 | | Project | Category | Year |
