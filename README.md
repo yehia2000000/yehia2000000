@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ## Embedded system Projects
 | | Project | Category | Year |
 |---:|---|---|---|
-|  1 | [Motor_Dash_Board]()                                             | Embedded system                     |  2024 |
-|  2 | [Simple_Shell]()		                                 	| operating system                    |  2024 |
-|  3 | [EDF-Scheduler]()                                                | Real Time Operating system	      |  2024 |
-|  3 | [Antenna control signals]()                                      | Embedded system                     |  2024 |
+|  1 | [Motor_Dash_Board]()                                             | Embedded system                     |  2021 |
+|  2 | [Simple_Shell]()		                                 	| operating system                    |  2021 |
+|  3 | [EDF-Scheduler]()                                                | Real Time Operating system	      |  2022 |
+|  3 | [Antenna control signals]()                                      | Embedded system                     |  2021 |
 |  3 | [stm32 Driver]()                                                 | stm32 Driver                        |  2020 |
 |  4 | [Avr Driver]()                        				| atmega32 Driver                     |  2020 |
 
