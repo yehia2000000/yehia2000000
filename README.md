@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 |---:|---|---|---|
 |  1 | [FIFO Design and verification using SV]()                        | Digital verification (SV)           |  2024 |
 |  2 | [UART Design and verification using UVM]()			| Digital verification (SV)           |  2024 |
-|  3 | [TLM Example (UVM)]()                                            | UVM 				      |  2024 |
-|  3 | [VHDL Designs and Testbench]()                                   | Digital Design and Test (VHDL)      |  2024 |
+|  3 | [TLM Example (UVM)](https://github.com/yehia2000000/TLM-example/tree/main)                                            | UVM 				      |  2024 |
+|  3 | [VHDL Designs and Testbench](https://github.com/yehia2000000/Testbench-Using-VHDL-)                                   | Digital Design and Test (VHDL)      |  2024 |
 |  3 | [Huffman Decoding Reciever]()                                    | Digital Design (verilog)            |  2020 |
-|  4 | [spqm]()                                				| Digital Design (verilog)            |  2020 |
+|  4 | [spqm](https://github.com/yehia2000000/sbqm)                                				| Digital Design (verilog)            |  2020 |
 ---
 ## Embedded system Projects
 | | Project | Category | Year |
