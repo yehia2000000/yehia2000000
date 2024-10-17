@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Graduation project for university
 | | Project | Category | Year |
 |---:|---|---|---|
-|  1 | [Firmware Over The Air](https://github.com/YehiaEhab16/FOTA_Graduation-Project-2022)                        | Embedded system          |  2022 |
+|  1 | [Firmware Over The Air (FOTA) using STM32 ](https://github.com/YehiaEhab16/FOTA_Graduation-Project-2022)                        | Embedded system (Automative industry)          |  2022 |
 ---
 ## Digital Design and Verification Projects
 | | Project | Category | Year |
