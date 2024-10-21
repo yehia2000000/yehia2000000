@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 |---:|---|---|---|
 |  1 | [Phone book](https://github.com/yehia2000000/PhoneBook)                                                   | python                              |  2021 |
 |  2 | [Topology API](https://github.com/yehia2000000/Topology-API-)							| C++ (OOP)		              |  2021 |
-|  3 | [Function Plotter] (https://github.com/yehia2000000/Function-Plotter)                                            | python (Qt_design)		      |  2021 |
+|  3 | [Function Plotter](https://github.com/yehia2000000/Function-Plotter)                                            | python (Qt_design)		      |  2021 |
 |  4 | [Downloader application](https://github.com/yehia2000000/Downloader)                                       | python (Qt_design)                  |  2021 |
 |  5 | [Clinc Managemnet System](https://github.com/yehia2000000/Clinc-Managemnet-System)                                      | C programming                       |  2020 |
 
