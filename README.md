@@ -24,37 +24,37 @@ Here are some ideas to get you started:
 ## Digital Design and Verification Projects
 | | Project | Category | Year |
 |---:|---|---|---|
-|  1 | [FIFO Design and verification using SV]()                        | Digital verification (SV)           |  2024 |
+|  1 | [FIFO Design and verification using SV](https://github.com/yehia2000000/FIFO-Design-and-Verification-using-systemverilog)                        | Digital verification (SV)           |  2024 |
 |  2 | [UART Design and verification using UVM]()			| Digital verification (SV)           |  2024 |
 |  3 | [TLM Example (UVM)](https://github.com/yehia2000000/TLM-example/tree/main)                                            | UVM 				      |  2024 |
 |  3 | [VHDL Designs and Testbench](https://github.com/yehia2000000/Testbench-Using-VHDL-)                                   | Digital Design and Test (VHDL)      |  2024 |
-|  3 | [Huffman Decoding Reciever]()                                    | Digital Design (verilog)            |  2020 |
+|  3 | [Huffman Decoding Reciever](https://github.com/yehia2000000/Huffman-Decoding-Reciever)                                    | Digital Design (verilog)            |  2020 |
 |  4 | [spqm](https://github.com/yehia2000000/sbqm)                                				| Digital Design (verilog)            |  2020 |
 ---
 ## Embedded system Projects
 | | Project | Category | Year |
 |---:|---|---|---|
-|  1 | [Motor_Dash_Board]()                                             | Embedded system                     |  2021 |
-|  2 | [Simple_Shell]()		                                 	| operating system                    |  2021 |
-|  3 | [EDF-Scheduler]()                                                | Real Time Operating system	      |  2022 |
-|  3 | [Antenna control signals]()                                      | Embedded system                     |  2021 |
-|  3 | [stm32 Driver]()                                                 | stm32 Driver                        |  2020 |
-|  4 | [Avr Driver]()                        				| atmega32 Driver                     |  2020 |
+|  1 | [Motor_Dash_Board](https://github.com/yehia2000000/Motor_Dash_Board)                                             | Embedded system                     |  2021 |
+|  2 | [Simple_Shell](https://github.com/yehia2000000/Simple_Shell)		                                 	| operating system                    |  2021 |
+|  3 | [EDF-Scheduler](https://github.com/yehia2000000/EDF-Scheduler)                                                | Real Time Operating system	      |  2022 |
+|  3 | [Antenna control signals](https://github.com/yehia2000000/Antenna-Control-System)                                      | Embedded system                     |  2021 |
+|  3 | [stm32 Driver](https://github.com/yehia2000000/STM32F103_Drivers)                                                 | stm32 Driver                        |  2020 |
+|  4 | [Avr Driver](https://github.com/yehia2000000/AVR_Drivers)                        				| atmega32 Driver                     |  2020 |
 
 ## Programming Projects
 | | Project | Category | Year |
 |---:|---|---|---|
-|  1 | [Phone book]()                                                   | python                              |  2021 |
-|  2 | [Topology API]()							| C++ (OOP)		              |  2021 |
-|  3 | [Function Plotter] ()                                            | python (Qt_design)		      |  2021 |
-|  4 | [Downloader application]()                                       | python (Qt_design)                  |  2021 |
-|  5 | [Clinc Managemnet System]()                                      | C programming                       |  2020 |
+|  1 | [Phone book](https://github.com/yehia2000000/PhoneBook)                                                   | python                              |  2021 |
+|  2 | [Topology API](https://github.com/yehia2000000/Topology-API-)							| C++ (OOP)		              |  2021 |
+|  3 | [Function Plotter] (https://github.com/yehia2000000/Function-Plotter)                                            | python (Qt_design)		      |  2021 |
+|  4 | [Downloader application](https://github.com/yehia2000000/Downloader)                                       | python (Qt_design)                  |  2021 |
+|  5 | [Clinc Managemnet System](https://github.com/yehia2000000/Clinc-Managemnet-System)                                      | C programming                       |  2020 |
 
 
 ## AI Assignments
 | | Project | Category | Year |
 |---:|---|---|---|
-|  1 | [AMIT assignment Diploma]()                                      | Machine and Deep learning           |  2022 |
+|  1 | [AMIT assignment Diploma](https://github.com/yehia2000000/AMIT_Machine_Diploma_Assignment)                                      | Machine and Deep learning           |  2022 |
 
 
 
